@@ -1,0 +1,23 @@
+ /* #card1 , #card2, #card3, #card4{
+    border: 1px solid black;
+    padding: 1rem;
+ }
+
+ #card1 img,#card2 img,#card3 img,#card4 img {
+    height: 10rem; 
+    width: 18rem;
+ }
+
+ #card5 , #card6, #card7, #card8{
+    border: 1px solid black;
+    padding: 1rem;
+ }
+
+ #card5 img,#card6 img,#card7 img,#card8 img {
+    height: 10rem; 
+    width: 18rem;
+ } */
+
+ .row i{
+   color: gold;
+ }
